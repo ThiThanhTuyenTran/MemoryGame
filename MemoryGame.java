@@ -1,6 +1,5 @@
 import java.util.Random;
 import java.util.Scanner;
-
 public class MemoryGame {
     private static final int NUMBERS_TO_REMEMBER = 7;
     private static final int DISPLAY_TIME_MS = 4000;
